@@ -1,0 +1,8 @@
+C:\Users\mubali\Source\Repos\myArtifacts\myUtilities\myUtilities\bin\Debug\netstandard2.0\myUtilities.deps.json
+C:\Users\mubali\Source\Repos\myArtifacts\myUtilities\myUtilities\bin\Debug\netstandard2.0\myUtilities.dll
+C:\Users\mubali\Source\Repos\myArtifacts\myUtilities\myUtilities\bin\Debug\netstandard2.0\myUtilities.pdb
+C:\Users\mubali\Source\Repos\myArtifacts\myUtilities\myUtilities\obj\Debug\netstandard2.0\myUtilities.csproj.CoreCompileInputs.cache
+C:\Users\mubali\Source\Repos\myArtifacts\myUtilities\myUtilities\obj\Debug\netstandard2.0\myUtilities.AssemblyInfoInputs.cache
+C:\Users\mubali\Source\Repos\myArtifacts\myUtilities\myUtilities\obj\Debug\netstandard2.0\myUtilities.AssemblyInfo.cs
+C:\Users\mubali\Source\Repos\myArtifacts\myUtilities\myUtilities\obj\Debug\netstandard2.0\myUtilities.dll
+C:\Users\mubali\Source\Repos\myArtifacts\myUtilities\myUtilities\obj\Debug\netstandard2.0\myUtilities.pdb
